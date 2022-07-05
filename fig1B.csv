@@ -1,0 +1,385 @@
+,city,date,variable,value
+0,boston,2020-01-01,Visits per user,97.93605149056151
+1,boston,2020-02-01,Visits per user,102.06394850943848
+2,boston,2020-03-01,Visits per user,71.1390990869497
+3,boston,2020-04-01,Visits per user,44.310001068880574
+4,boston,2020-05-01,Visits per user,48.64024471412812
+5,boston,2020-06-01,Visits per user,65.09708404055868
+6,boston,2020-07-01,Visits per user,77.56644712495222
+7,boston,2020-08-01,Visits per user,76.87034769137011
+8,boston,2020-09-01,Visits per user,70.41030538202118
+9,boston,2020-10-01,Visits per user,71.4233016584834
+10,boston,2020-11-01,Visits per user,64.2223540787144
+11,boston,2020-12-01,Visits per user,65.13630083235877
+12,boston,2021-01-01,Visits per user,65.40230568536171
+13,boston,2021-02-01,Visits per user,67.36718223126675
+14,boston,2021-03-01,Visits per user,81.24595130578643
+15,boston,2021-04-01,Visits per user,81.79596688694193
+16,boston,2021-05-01,Visits per user,84.07264183542209
+17,boston,2021-06-01,Visits per user,91.57567141719468
+18,boston,2021-07-01,Visits per user,94.95509135314171
+19,boston,2021-08-01,Visits per user,93.11933322860335
+20,boston,2021-09-01,Visits per user,101.08888842865487
+21,boston,2021-10-01,Visits per user,106.93358869123199
+22,boston,2021-11-01,Visits per user,93.80567971828313
+23,boston,2021-12-01,Visits per user,94.3021200836446
+24,seattle,2020-01-01,Visits per user,94.19036246425377
+25,seattle,2020-02-01,Visits per user,105.80963753574622
+26,seattle,2020-03-01,Visits per user,65.398324910684
+27,seattle,2020-04-01,Visits per user,47.03819043337409
+28,seattle,2020-05-01,Visits per user,48.90300190963212
+29,seattle,2020-06-01,Visits per user,65.27078321334712
+30,seattle,2020-07-01,Visits per user,74.81054692308352
+31,seattle,2020-08-01,Visits per user,73.49938742388196
+32,seattle,2020-09-01,Visits per user,68.77360850209693
+33,seattle,2020-10-01,Visits per user,68.09536766410122
+34,seattle,2020-11-01,Visits per user,59.30655136946266
+35,seattle,2020-12-01,Visits per user,59.94815004701125
+36,seattle,2021-01-01,Visits per user,59.79113286163984
+37,seattle,2021-02-01,Visits per user,68.6613489111514
+38,seattle,2021-03-01,Visits per user,74.40703979466062
+39,seattle,2021-04-01,Visits per user,79.1482942471784
+40,seattle,2021-05-01,Visits per user,74.61245362425717
+41,seattle,2021-06-01,Visits per user,84.74539549871534
+42,seattle,2021-07-01,Visits per user,93.33379255025746
+43,seattle,2021-08-01,Visits per user,90.52373861740088
+44,seattle,2021-09-01,Visits per user,95.49502715100918
+45,seattle,2021-10-01,Visits per user,94.9538143038451
+46,seattle,2021-11-01,Visits per user,86.02505451885695
+47,seattle,2021-12-01,Visits per user,85.15925747908885
+48,la,2020-01-01,Visits per user,97.12118539851363
+49,la,2020-02-01,Visits per user,102.87881460148638
+50,la,2020-03-01,Visits per user,72.28561591920368
+51,la,2020-04-01,Visits per user,46.61725116758977
+52,la,2020-05-01,Visits per user,50.69100835171848
+53,la,2020-06-01,Visits per user,69.35161993611766
+54,la,2020-07-01,Visits per user,73.11983251219645
+55,la,2020-08-01,Visits per user,67.50500000622839
+56,la,2020-09-01,Visits per user,64.01000054073293
+57,la,2020-10-01,Visits per user,66.00397327577004
+58,la,2020-11-01,Visits per user,61.96426159302376
+59,la,2020-12-01,Visits per user,58.0395121620889
+60,la,2021-01-01,Visits per user,57.312549569859065
+61,la,2021-02-01,Visits per user,64.07131902340092
+62,la,2021-03-01,Visits per user,74.7544404142182
+63,la,2021-04-01,Visits per user,80.30797075862148
+64,la,2021-05-01,Visits per user,77.23446420268901
+65,la,2021-06-01,Visits per user,89.90065109215249
+66,la,2021-07-01,Visits per user,96.20602431209373
+67,la,2021-08-01,Visits per user,95.10807988227445
+68,la,2021-09-01,Visits per user,98.47191691939365
+69,la,2021-10-01,Visits per user,99.58201814187922
+70,la,2021-11-01,Visits per user,89.73480163756625
+71,la,2021-12-01,Visits per user,89.1109773934093
+72,dallas,2020-01-01,Visits per user,97.49749819736712
+73,dallas,2020-02-01,Visits per user,102.50250180263286
+74,dallas,2020-03-01,Visits per user,71.28943457352987
+75,dallas,2020-04-01,Visits per user,44.454945420419094
+76,dallas,2020-05-01,Visits per user,58.86818748030967
+77,dallas,2020-06-01,Visits per user,79.59973123663795
+78,dallas,2020-07-01,Visits per user,80.14029840598934
+79,dallas,2020-08-01,Visits per user,73.48218597828016
+80,dallas,2020-09-01,Visits per user,76.28988981751033
+81,dallas,2020-10-01,Visits per user,79.47931817783291
+82,dallas,2020-11-01,Visits per user,71.6511122687432
+83,dallas,2020-12-01,Visits per user,71.09130924068637
+84,dallas,2021-01-01,Visits per user,73.33075256121333
+85,dallas,2021-02-01,Visits per user,65.40645577380445
+86,dallas,2021-03-01,Visits per user,89.38874178642529
+87,dallas,2021-04-01,Visits per user,89.66709832950121
+88,dallas,2021-05-01,Visits per user,84.35126930023482
+89,dallas,2021-06-01,Visits per user,93.34000925679297
+90,dallas,2021-07-01,Visits per user,98.5043650320215
+91,dallas,2021-08-01,Visits per user,97.01805569096818
+92,dallas,2021-09-01,Visits per user,100.23568060435025
+93,dallas,2021-10-01,Visits per user,102.80592087189476
+94,dallas,2021-11-01,Visits per user,93.04168714553717
+95,dallas,2021-12-01,Visits per user,92.2568680727775
+96,boston,2020-01-01,Total dwell time per user,98.36130867709814
+97,boston,2020-02-01,Total dwell time per user,101.63869132290183
+98,boston,2020-03-01,Total dwell time per user,73.6443812233286
+99,boston,2020-04-01,Total dwell time per user,52.23897581792318
+100,boston,2020-05-01,Total dwell time per user,51.28307254623044
+101,boston,2020-06-01,Total dwell time per user,66.47510668563301
+102,boston,2020-07-01,Total dwell time per user,77.87766714082504
+103,boston,2020-08-01,Total dwell time per user,78.2873399715505
+104,boston,2020-09-01,Total dwell time per user,72.51778093883357
+105,boston,2020-10-01,Total dwell time per user,73.84921763869133
+106,boston,2020-11-01,Total dwell time per user,67.39687055476529
+107,boston,2020-12-01,Total dwell time per user,69.30867709815078
+108,boston,2021-01-01,Total dwell time per user,67.39687055476529
+109,boston,2021-02-01,Total dwell time per user,72.21052631578948
+110,boston,2021-03-01,Total dwell time per user,82.75960170697013
+111,boston,2021-04-01,Total dwell time per user,81.83783783783784
+112,boston,2021-05-01,Total dwell time per user,82.3157894736842
+113,boston,2021-06-01,Total dwell time per user,92.48933143669984
+114,boston,2021-07-01,Total dwell time per user,96.55192034139402
+115,boston,2021-08-01,Total dwell time per user,94.7425320056899
+116,boston,2021-09-01,Total dwell time per user,104.36984352773825
+117,boston,2021-10-01,Total dwell time per user,104.50640113798008
+118,boston,2021-11-01,Total dwell time per user,93.24039829302987
+119,boston,2021-12-01,Total dwell time per user,96.38122332859174
+120,seattle,2020-01-01,Total dwell time per user,94.85224022878933
+121,seattle,2020-02-01,Total dwell time per user,105.14775977121069
+122,seattle,2020-03-01,Total dwell time per user,69.36367969494756
+123,seattle,2020-04-01,Total dwell time per user,49.916587225929455
+124,seattle,2020-05-01,Total dwell time per user,51.41801715919924
+125,seattle,2020-06-01,Total dwell time per user,67.82650142993327
+126,seattle,2020-07-01,Total dwell time per user,75.1906577693041
+127,seattle,2020-08-01,Total dwell time per user,73.72497616777883
+128,seattle,2020-09-01,Total dwell time per user,71.83031458531936
+129,seattle,2020-10-01,Total dwell time per user,69.256434699714
+130,seattle,2020-11-01,Total dwell time per user,64.60915157292659
+131,seattle,2020-12-01,Total dwell time per user,65.89609151572927
+132,seattle,2021-01-01,Total dwell time per user,63.92993326978074
+133,seattle,2021-02-01,Total dwell time per user,73.04575786463299
+134,seattle,2021-03-01,Total dwell time per user,78.05052430886559
+135,seattle,2021-04-01,Total dwell time per user,79.2302192564347
+136,seattle,2021-05-01,Total dwell time per user,75.65538608198284
+137,seattle,2021-06-01,Total dwell time per user,87.91706387035272
+138,seattle,2021-07-01,Total dwell time per user,95.24547187797904
+139,seattle,2021-08-01,Total dwell time per user,93.27931363203051
+140,seattle,2021-09-01,Total dwell time per user,98.21258341277408
+141,seattle,2021-10-01,Total dwell time per user,96.28217349857007
+142,seattle,2021-11-01,Total dwell time per user,89.9904671115348
+143,seattle,2021-12-01,Total dwell time per user,89.59723546234508
+144,la,2020-01-01,Total dwell time per user,97.6483365995325
+145,la,2020-02-01,Total dwell time per user,102.35166340046749
+146,la,2020-03-01,Total dwell time per user,77.8150308124572
+147,la,2020-04-01,Total dwell time per user,56.990059736028144
+148,la,2020-05-01,Total dwell time per user,57.38672585176965
+149,la,2020-06-01,Total dwell time per user,73.31003706939296
+150,la,2020-07-01,Total dwell time per user,77.8150308124572
+151,la,2020-08-01,Total dwell time per user,73.87670294902368
+152,la,2020-09-01,Total dwell time per user,72.14837201614998
+153,la,2020-10-01,Total dwell time per user,74.64170188652515
+154,la,2020-11-01,Total dwell time per user,69.91004179160862
+155,la,2020-12-01,Total dwell time per user,68.06837768280877
+156,la,2021-01-01,Total dwell time per user,66.00004722215664
+157,la,2021-02-01,Total dwell time per user,72.26170519207612
+158,la,2021-03-01,Total dwell time per user,82.37669114348452
+159,la,2021-04-01,Total dwell time per user,86.14501924302883
+160,la,2021-05-01,Total dwell time per user,81.38502585413075
+161,la,2021-06-01,Total dwell time per user,96.03333884258494
+162,la,2021-07-01,Total dwell time per user,101.30333152315066
+163,la,2021-08-01,Total dwell time per user,99.51833400231388
+164,la,2021-09-01,Total dwell time per user,103.88166127547045
+165,la,2021-10-01,Total dwell time per user,102.77666281019053
+166,la,2021-11-01,Total dwell time per user,93.71000873609897
+167,la,2021-12-01,Total dwell time per user,95.86333907869572
+168,dallas,2020-01-01,Total dwell time per user,97.78999450247387
+169,dallas,2020-02-01,Total dwell time per user,102.21000549752611
+170,dallas,2020-03-01,Total dwell time per user,75.29411764705883
+171,dallas,2020-04-01,Total dwell time per user,48.67509620670698
+172,dallas,2020-05-01,Total dwell time per user,58.80153930731171
+173,dallas,2020-06-01,Total dwell time per user,79.35129191863662
+174,dallas,2020-07-01,Total dwell time per user,80.86860912589334
+175,dallas,2020-08-01,Total dwell time per user,75.68993952721276
+176,dallas,2020-09-01,Total dwell time per user,78.55964815832876
+177,dallas,2020-10-01,Total dwell time per user,81.36338647608576
+178,dallas,2020-11-01,Total dwell time per user,74.46948873007148
+179,dallas,2020-12-01,Total dwell time per user,76.51456844420011
+180,dallas,2021-01-01,Total dwell time per user,75.85486531061022
+181,dallas,2021-02-01,Total dwell time per user,69.05992303463441
+182,dallas,2021-03-01,Total dwell time per user,91.58878504672896
+183,dallas,2021-04-01,Total dwell time per user,90.76415612974161
+184,dallas,2021-05-01,Total dwell time per user,85.35459043430457
+185,dallas,2021-06-01,Total dwell time per user,96.89939527212753
+186,dallas,2021-07-01,Total dwell time per user,100.29686641011544
+187,dallas,2021-08-01,Total dwell time per user,99.24134139637162
+188,dallas,2021-09-01,Total dwell time per user,101.71522814733369
+189,dallas,2021-10-01,Total dwell time per user,101.94612424409016
+190,dallas,2021-11-01,Total dwell time per user,94.59043430456293
+191,dallas,2021-12-01,Total dwell time per user,94.95327102803738
+192,boston,2020-01-01,Dwell time per visit,100.34954984586498
+193,boston,2020-02-01,Dwell time per visit,99.65045015413502
+194,boston,2020-03-01,Dwell time per visit,94.11575348905149
+195,boston,2020-04-01,Dwell time per visit,82.48083601427578
+196,boston,2020-05-01,Dwell time per visit,81.32295200044948
+197,boston,2020-06-01,Dwell time per visit,87.64574585034804
+198,boston,2020-07-01,Dwell time per visit,90.97060648063777
+199,boston,2020-08-01,Dwell time per visit,92.60019864635869
+200,boston,2020-09-01,Dwell time per visit,91.09430091413333
+201,boston,2020-10-01,Dwell time per visit,91.08466722512192
+202,boston,2020-11-01,Dwell time per visit,90.7394552388379
+203,boston,2020-12-01,Dwell time per visit,89.36194113962026
+204,boston,2021-01-01,Dwell time per visit,90.2135495482572
+205,boston,2021-02-01,Dwell time per visit,91.94329053979168
+206,boston,2021-03-01,Dwell time per visit,92.53835870313884
+207,boston,2021-04-01,Dwell time per visit,92.73131485370737
+208,boston,2021-05-01,Dwell time per visit,94.22853720238211
+209,boston,2021-06-01,Dwell time per visit,97.03064324330958
+210,boston,2021-07-01,Dwell time per visit,97.08261416455169
+211,boston,2021-08-01,Dwell time per visit,97.03553382596304
+212,boston,2021-09-01,Dwell time per visit,99.3944321361108
+213,boston,2021-10-01,Dwell time per visit,97.87864951797897
+214,boston,2021-11-01,Dwell time per visit,98.92568751458002
+215,boston,2021-12-01,Dwell time per visit,100.1579248743195
+216,seattle,2020-01-01,Dwell time per visit,99.8045454689998
+217,seattle,2020-02-01,Dwell time per visit,100.1954545310002
+218,seattle,2020-03-01,Dwell time per visit,93.29535887625936
+219,seattle,2020-04-01,Dwell time per visit,80.91997007699426
+220,seattle,2020-05-01,Dwell time per visit,81.71272848163309
+221,seattle,2020-06-01,Dwell time per visit,88.25402242584305
+222,seattle,2020-07-01,Dwell time per visit,89.1421736417767
+223,seattle,2020-08-01,Dwell time per visit,89.88888789462737
+224,seattle,2020-09-01,Dwell time per visit,90.25517605741172
+225,seattle,2020-10-01,Dwell time per visit,88.59075781534455
+226,seattle,2020-11-01,Dwell time per visit,89.31822466265173
+227,seattle,2020-12-01,Dwell time per visit,87.176209721957
+228,seattle,2021-01-01,Dwell time per visit,87.95873677165174
+229,seattle,2021-02-01,Dwell time per visit,91.59338167166992
+230,seattle,2021-03-01,Dwell time per visit,91.81990558291993
+231,seattle,2021-04-01,Dwell time per visit,90.80390245601166
+232,seattle,2021-05-01,Dwell time per visit,92.314096245034
+233,seattle,2021-06-01,Dwell time per visit,95.34352147728153
+234,seattle,2021-07-01,Dwell time per visit,95.96776496611973
+235,seattle,2021-08-01,Dwell time per visit,96.2298604766444
+236,seattle,2021-09-01,Dwell time per visit,97.97737244079465
+237,seattle,2021-10-01,Dwell time per visit,97.24493613955369
+238,seattle,2021-11-01,Dwell time per visit,99.0924837671031
+239,seattle,2021-12-01,Dwell time per visit,98.11105806299342
+240,la,2020-01-01,Dwell time per visit,100.35854077854844
+241,la,2020-02-01,Dwell time per visit,99.64145922145154
+242,la,2020-03-01,Dwell time per visit,96.46076414365483
+243,la,2020-04-01,Dwell time per visit,88.07350773134176
+244,la,2020-05-01,Dwell time per visit,86.0138222517239
+245,la,2020-06-01,Dwell time per visit,91.19677475118789
+246,la,2020-07-01,Dwell time per visit,91.16143919756195
+247,la,2020-08-01,Dwell time per visit,92.44132142044846
+248,la,2020-09-01,Dwell time per visit,92.50773615605863
+249,la,2020-10-01,Dwell time per visit,93.16161781790211
+250,la,2020-11-01,Dwell time per visit,93.46549519843653
+251,la,2020-12-01,Dwell time per visit,91.2462254906722
+252,la,2021-01-01,Dwell time per visit,91.01546363862572
+253,la,2021-02-01,Dwell time per visit,92.89806717155948
+254,la,2021-03-01,Dwell time per visit,94.21578045421484
+255,la,2021-04-01,Dwell time per visit,95.35673704002964
+256,la,2021-05-01,Dwell time per visit,95.53409281020842
+257,la,2021-06-01,Dwell time per visit,98.32830099077718
+258,la,2021-07-01,Dwell time per visit,98.15997182142223
+259,la,2021-08-01,Dwell time per visit,98.47189192958889
+260,la,2021-09-01,Dwell time per visit,99.0965802491256
+261,la,2021-10-01,Dwell time per visit,98.67990270804417
+262,la,2021-11-01,Dwell time per visit,99.6642286920736
+263,la,2021-12-01,Dwell time per visit,100.07263030118537
+264,dallas,2020-01-01,Dwell time per visit,100.49040869334556
+265,dallas,2020-02-01,Dwell time per visit,99.50959130665444
+266,dallas,2020-03-01,Dwell time per visit,95.21088845204953
+267,dallas,2020-04-01,Dwell time per visit,83.02652399539463
+268,dallas,2020-05-01,Dwell time per visit,84.63958988813587
+269,dallas,2020-06-01,Dwell time per visit,92.06312227647001
+270,dallas,2020-07-01,Dwell time per visit,91.93627339971147
+271,dallas,2020-08-01,Dwell time per visit,92.59482230018781
+272,dallas,2020-09-01,Dwell time per visit,94.61036930992161
+273,dallas,2020-10-01,Dwell time per visit,94.82012895941557
+274,dallas,2020-11-01,Dwell time per visit,95.67488655948046
+275,dallas,2020-12-01,Dwell time per visit,95.74507617083508
+276,dallas,2021-01-01,Dwell time per visit,96.19739190436323
+277,dallas,2021-02-01,Dwell time per visit,94.18315196642735
+278,dallas,2021-03-01,Dwell time per visit,96.56609282474298
+279,dallas,2021-04-01,Dwell time per visit,96.18337842247827
+280,dallas,2021-05-01,Dwell time per visit,96.09712578399537
+281,dallas,2021-06-01,Dwell time per visit,98.72933051232442
+282,dallas,2021-07-01,Dwell time per visit,97.78662137871503
+283,dallas,2021-08-01,Dwell time per visit,98.93387440268839
+284,dallas,2021-09-01,Dwell time per visit,98.95478513856155
+285,dallas,2021-10-01,Dwell time per visit,98.34427091326121
+286,dallas,2021-11-01,Dwell time per visit,100.4101253067877
+287,dallas,2021-12-01,Dwell time per visit,100.00357867791581
+288,boston,2020-01-01,Unique POIs visited,97.6722126602062
+289,boston,2020-02-01,Unique POIs visited,102.32778733979379
+290,boston,2020-03-01,Unique POIs visited,72.38352792598639
+291,boston,2020-04-01,Unique POIs visited,40.70314714267603
+292,boston,2020-05-01,Unique POIs visited,48.30402234642409
+293,boston,2020-06-01,Unique POIs visited,62.103586759674045
+294,boston,2020-07-01,Unique POIs visited,76.87499322568182
+295,boston,2020-08-01,Unique POIs visited,75.69311679713181
+296,boston,2020-09-01,Unique POIs visited,76.07683971652803
+297,boston,2020-10-01,Unique POIs visited,76.24953883696921
+298,boston,2020-11-01,Unique POIs visited,65.283987033506
+299,boston,2020-12-01,Unique POIs visited,62.6838618442376
+300,boston,2021-01-01,Unique POIs visited,69.33362798581466
+301,boston,2021-02-01,Unique POIs visited,68.96975196986679
+302,boston,2021-03-01,Unique POIs visited,80.53087079134522
+303,boston,2021-04-01,Unique POIs visited,84.45308436537292
+304,boston,2021-05-01,Unique POIs visited,86.72196179278153
+305,boston,2021-06-01,Unique POIs visited,90.97108831521258
+306,boston,2021-07-01,Unique POIs visited,99.27444240883682
+307,boston,2021-08-01,Unique POIs visited,96.71981495621463
+308,boston,2021-09-01,Unique POIs visited,98.4503550281157
+309,boston,2021-10-01,Unique POIs visited,108.29566983581093
+310,boston,2021-11-01,Unique POIs visited,92.00532974007415
+311,boston,2021-12-01,Unique POIs visited,91.65941244194407
+312,seattle,2020-01-01,Unique POIs visited,95.0052397132391
+313,seattle,2020-02-01,Unique POIs visited,104.9947602867609
+314,seattle,2020-03-01,Unique POIs visited,65.67234480421068
+315,seattle,2020-04-01,Unique POIs visited,46.8996304170337
+316,seattle,2020-05-01,Unique POIs visited,50.18388440396646
+317,seattle,2020-06-01,Unique POIs visited,63.16614031855606
+318,seattle,2020-07-01,Unique POIs visited,73.27956865519208
+319,seattle,2020-08-01,Unique POIs visited,72.15693127717108
+320,seattle,2020-09-01,Unique POIs visited,71.05379321880321
+321,seattle,2020-10-01,Unique POIs visited,74.45346428298566
+322,seattle,2020-11-01,Unique POIs visited,60.541561419610815
+323,seattle,2020-12-01,Unique POIs visited,57.42372887700612
+324,seattle,2021-01-01,Unique POIs visited,62.30408253324724
+325,seattle,2021-02-01,Unique POIs visited,69.86335347538422
+326,seattle,2021-03-01,Unique POIs visited,75.79323449675381
+327,seattle,2021-04-01,Unique POIs visited,84.69360749571761
+328,seattle,2021-05-01,Unique POIs visited,81.41886211498462
+329,seattle,2021-06-01,Unique POIs visited,86.53206486288478
+330,seattle,2021-07-01,Unique POIs visited,97.03721112132854
+331,seattle,2021-08-01,Unique POIs visited,92.81901675592378
+332,seattle,2021-09-01,Unique POIs visited,93.46135198713037
+333,seattle,2021-10-01,Unique POIs visited,97.28276076434176
+334,seattle,2021-11-01,Unique POIs visited,83.83537683110423
+335,seattle,2021-12-01,Unique POIs visited,84.91867070861612
+336,la,2020-01-01,Unique POIs visited,97.00103466284715
+337,la,2020-02-01,Unique POIs visited,102.99896533715285
+338,la,2020-03-01,Unique POIs visited,72.44097221769174
+339,la,2020-04-01,Unique POIs visited,43.85537422544329
+340,la,2020-05-01,Unique POIs visited,51.593348696647865
+341,la,2020-06-01,Unique POIs visited,65.53430452383381
+342,la,2020-07-01,Unique POIs visited,69.06461402755416
+343,la,2020-08-01,Unique POIs visited,66.06635107847444
+344,la,2020-09-01,Unique POIs visited,68.35846332510751
+345,la,2020-10-01,Unique POIs visited,72.5827833160335
+346,la,2020-11-01,Unique POIs visited,62.52803085439076
+347,la,2020-12-01,Unique POIs visited,55.1198743223194
+348,la,2021-01-01,Unique POIs visited,58.9569173140229
+349,la,2021-02-01,Unique POIs visited,67.86476400645356
+350,la,2021-03-01,Unique POIs visited,76.94927684787334
+351,la,2021-04-01,Unique POIs visited,84.69189007711972
+352,la,2021-05-01,Unique POIs visited,84.86514169372813
+353,la,2021-06-01,Unique POIs visited,90.33237031067591
+354,la,2021-07-01,Unique POIs visited,99.28286827236676
+355,la,2021-08-01,Unique POIs visited,95.15358188817407
+356,la,2021-09-01,Unique POIs visited,96.9989026577707
+357,la,2021-10-01,Unique POIs visited,101.95205938462374
+358,la,2021-11-01,Unique POIs visited,88.47478232261734
+359,la,2021-12-01,Unique POIs visited,89.53489259741136
+360,dallas,2020-01-01,Unique POIs visited,97.05653049879221
+361,dallas,2020-02-01,Unique POIs visited,102.9434695012078
+362,dallas,2020-03-01,Unique POIs visited,72.35037766654982
+363,dallas,2020-04-01,Unique POIs visited,44.8936989622554
+364,dallas,2020-05-01,Unique POIs visited,62.893580189960446
+365,dallas,2020-06-01,Unique POIs visited,76.98785663228801
+366,dallas,2020-07-01,Unique POIs visited,77.87659085643095
+367,dallas,2020-08-01,Unique POIs visited,76.0815419879009
+368,dallas,2020-09-01,Unique POIs visited,80.69920759083674
+369,dallas,2020-10-01,Unique POIs visited,84.75522823422854
+370,dallas,2020-11-01,Unique POIs visited,73.05333096666072
+371,dallas,2020-12-01,Unique POIs visited,71.17202799286312
+372,dallas,2021-01-01,Unique POIs visited,77.64789116116586
+373,dallas,2021-02-01,Unique POIs visited,72.65637433762139
+374,dallas,2021-03-01,Unique POIs visited,90.64310383621985
+375,dallas,2021-04-01,Unique POIs visited,95.14730732821779
+376,dallas,2021-05-01,Unique POIs visited,91.47131198467763
+377,dallas,2021-06-01,Unique POIs visited,94.99815548599494
+378,dallas,2021-07-01,Unique POIs visited,103.55730711462854
+379,dallas,2021-08-01,Unique POIs visited,98.50638971302187
+380,dallas,2021-09-01,Unique POIs visited,100.76381264616832
+381,dallas,2021-10-01,Unique POIs visited,107.55839085217548
+382,dallas,2021-11-01,Unique POIs visited,92.38996689479202
+383,dallas,2021-12-01,Unique POIs visited,94.81322575141654
